@@ -1,6 +1,6 @@
 
 <p>
->currently learning html/css/HTML5
+>currently learning css/html
 </p>
 
 jmzx ⚡ 💬 -> 'tjmzx@protonmail.ch' 
